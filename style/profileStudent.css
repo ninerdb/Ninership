@@ -1,0 +1,94 @@
+.niner{
+	font-family: 'Tw Cen MT';
+	font-style: bold;
+	font-weight: 400;
+	color: white ;
+	color: white;
+	text-decoration: none;
+	font-size: 60px;
+	margin-bottom: 20px;
+}
+
+body {
+	background: #00703C ;
+	font-family: "Lato" ;
+}
+
+.img1 {
+	width: 55px;
+	height: 55px;
+	border-radius: 100px;
+	margin: auto;
+	border:3px solid #fff;
+	display: block;
+}
+
+.button1 {
+	width: 100%;
+	border-radius: 7px;
+	background: silver;
+	text-decoration: center;
+	border: none;
+	color: black;
+    margin-top:-5px;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	outline: none;
+	font-size: 13px;	
+	border-bottom: 3px solid #307d63;
+	cursor: pointer;
+}
+
+
+.button2 {
+	float: right;
+	width: 7%;
+	height: 1%;
+	border-radius: 7px;
+	background: silver;
+	text-decoration: center;
+	border: none;
+	color: black;
+    margin-top:0px;
+	margin-right:20px;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	outline: none;
+	font-size: 13px;
+	font-weight: bold;	
+	border-bottom: 3px solid #307d63;
+	cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+a:link, a:visited {
+	font-family: 'Tw Cen MT';
+    display: block;
+	font-size: 24px;
+    width: 387.5px;
+	height: 26px;
+    font-weight: bold;
+    color: white;
+    background-color: #E49204;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+    background-color: #B45F04;
+}
+
+
+

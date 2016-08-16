@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <title>Login</title>
+        
+    </head>
+    <body>
+        <div id="container">
+            <header>Ninership</header>
+		</div>
+        <div class="main">
+            <section>
+				<form>
+					<table>
+                        <tr>
+                            <td>800#</td>
+                            <td><input type='text'/></td>
+                        </tr>
+						<tr>
+                            <td>Password</td>
+                            <td><input type='text'/></td>
+                        </tr>
+						<tr>
+                            <td><input type='button' value='Sign In'/></td>
+                        </tr>
+						<tr>
+                            <td><input type='button' value='Forgot Password?'/></td>
+                        </tr>
+						<tr>
+                            <td><input type='button' value='Register'/></td>
+                        </tr>
+					</table>
+				</form>	
+            </section>
+        </div>
+		<div>	
+			<footer>@Copyright SQL STARS</footer>
+		</div>
+    </body>
+</html>
